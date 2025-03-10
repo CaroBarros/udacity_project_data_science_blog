@@ -17,6 +17,7 @@ Outline the contents of the repository with a short description of each file. Ex
 │── 📁 data/                                  # Contains raw and processed data
 │   │── data.csv                               # Dataset used for analysis
 │── 📁 notebook/                              # Source code files
+│   │── data_preparation.ipynb                # Datataset pretreatment script in Jupyter Notebook
 │   │── data_science_1st_blogpost.ipynb       # Main analysis script in Jupyter Notebook
 │  
 ```
