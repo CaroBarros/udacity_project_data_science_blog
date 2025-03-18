@@ -54,8 +54,8 @@ Libraries:
 - **Work Experience has a strong correlation with salary**, particularly in the **Random Forest model**, where it was one of the most influential factors.  
 - **Organization Size has a notable impact on salary**, with larger organizations generally offering higher compensation.  
 - **The role of Education Level and Cloud Platform experience in salary prediction was minimal**, suggesting that other factors, such as **skills, job role, and industry,** might play a more significant role.  
-- **Both models (Linear Regression and Random Forest) showed relatively low predictive power (R² ~0.48-0.49), indicating that additional factors should be considered to improve salary predictions.**  
-- **Model performance indicates room for improvement**—with **Mean Absolute Errors (MAE) around $27,000**, the predictions are not highly precise, and further optimization is needed.  
+- **Both models (Linear Regression and Random Forest)** showed relatively low predictive power (R² ~0.48-0.49), indicating that additional factors should be considered to improve salary predictions.
+- **Model performance indicates room for improvement**—with Mean Absolute Errors (MAE) around $27,000, the predictions are not highly precise, and further optimization is needed.  
 
 
 
