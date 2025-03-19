@@ -56,9 +56,7 @@ Libraries:
 - **The role of Education Level and Cloud Platform experience in salary prediction was minimal**, suggesting that other factors, such as **skills, job role, and industry,** might play a more significant role.  
 - **Both models (Linear Regression and Random Forest)** showed relatively low predictive power (R² ~0.49-0.51), indicating that additional factors should be considered to improve salary predictions.
 - **Model performance indicates room for improvement**—with Mean Absolute Errors (MAE) around $27,000, the predictions are not highly precise, and further optimization is needed.  
-
-
-
+- A blog post in medium was created to present the results to a non technical audience: [blog post][def]
 
 ## 🙌 Acknowledgments
 This project was completed as part of the **Udacity Data Scientist Nanodegree** program.  
@@ -69,3 +67,6 @@ Special thanks to:
 - The **open-source community** for their contributions to the libraries used in this project.  
 
 
+
+
+[def]: https://medium.com/@carolina.barros.ds/what-really-drives-developer-salaries-a-data-driven-exploration-eb7d45bcc295
